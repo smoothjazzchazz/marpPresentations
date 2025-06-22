@@ -1,0 +1,19 @@
+{
+  "name": "diu-accelerator-challenge-slides",
+  "version": "1.0.0",
+  "description": "Slides for the DIU Dual-Use University Accelerator Challenge.",
+  "main": "slides_template.md",
+  "scripts": {
+    "build": "marp-cli slide_template.md -o presentation.html"
+  },
+  "keywords": [
+    "marp",
+    "slides",
+    "diu"
+  ],
+  "author": "smoothjazzchazz",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}
