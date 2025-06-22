@@ -2,9 +2,10 @@
   "name": "diu-accelerator-challenge-slides",
   "version": "1.0.0",
   "description": "Slides for the DIU Dual-Use University Accelerator Challenge.",
-  "main": "slides_template.md",
+  "main": "diu_presentation.md",
   "scripts": {
-    "build": "marp-cli slide_template.md -o presentation.html"
+    "build": "marp-cli diu_presentation.md -o diu_presentation.html",
+    "build-template": "marp-cli slide_template.md -o presentation.html"
   },
   "keywords": [
     "marp",

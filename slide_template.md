@@ -32,7 +32,7 @@ style: |
 
 <!-- _class: title -->
 
-![logo](image2)
+![logo](balor_defense.png)
 
 # DIU Dual-Use University Accelerator Challenge
 ## Balor Defense Systems
@@ -77,6 +77,6 @@ style: |
 
 ## Thank You
 
-![logo](image2)
+![logo](balor_defense.png)
 
 ### Questions?
